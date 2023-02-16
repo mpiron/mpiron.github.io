@@ -11,8 +11,10 @@ a {
   color: bisque;
   text-decoration: wavy;
 }
-a:hover {
+a:hover,h2:hover {
   color: burlywood;
   background-color: grey;
   border-radius: 3px;
 }
+h2{color:azure;
+font-size: 1.2em;}
